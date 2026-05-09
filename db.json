@@ -1,0 +1,552 @@
+{
+  "events": [
+    {
+      "id": "4",
+      "title": "USA vs Paraguay",
+      "date": "2026-06-12",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Los Angeles (Inglewood)",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "6",
+      "title": "Brazil vs Morocco",
+      "date": "2026-06-13",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "New York/New Jersey (East Rutherford)",
+      "color": "#16A34A"
+    },
+    {
+      "id": "7",
+      "title": "Haiti vs Scotland",
+      "date": "2026-06-13",
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "location": "Boston (Foxborough)",
+      "color": "#DC2626"
+    },
+    {
+      "id": "8",
+      "title": "Germany vs Curaçao",
+      "date": "2026-06-14",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Houston",
+      "color": "#111827"
+    },
+    {
+      "id": "9",
+      "title": "Netherlands vs Japan",
+      "date": "2026-06-14",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "Dallas (Arlington)",
+      "color": "#F97316"
+    },
+    {
+      "id": "10",
+      "title": "Ivory Coast vs Ecuador",
+      "date": "2026-06-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Philadelphia",
+      "color": "#CA8A04"
+    },
+    {
+      "id": "11",
+      "title": "Sweden vs Tunisia",
+      "date": "2026-06-14",
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "location": "Monterrey (Guadalupe)",
+      "color": "#2563EB"
+    },
+    {
+      "id": "12",
+      "title": "Belgium vs Egypt",
+      "date": "2026-06-15",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Seattle",
+      "color": "#DC2626"
+    },
+    {
+      "id": "13",
+      "title": "Spain vs Cape Verde",
+      "date": "2026-06-15",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Atlanta",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "14",
+      "title": "Uruguay vs Saudi Arabia",
+      "date": "2026-06-15",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Miami (Miami Gardens)",
+      "color": "#38BDF8"
+    },
+    {
+      "id": "15",
+      "title": "Iran vs New Zealand",
+      "date": "2026-06-15",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Los Angeles (Inglewood)",
+      "color": "#059669"
+    },
+    {
+      "id": "16",
+      "title": "France vs Senegal",
+      "date": "2026-06-16",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "New York/New Jersey (East Rutherford)",
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "17",
+      "title": "Iraq vs Norway",
+      "date": "2026-06-16",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Boston (Foxborough)",
+      "color": "#DC2626"
+    },
+    {
+      "id": "18",
+      "title": "Argentina vs Algeria",
+      "date": "2026-06-16",
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "location": "Kansas City",
+      "color": "#38BDF8"
+    },
+    {
+      "id": "19",
+      "title": "Austria vs Jordan",
+      "date": "2026-06-16",
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "location": "San Francisco Bay Area (Santa Clara)",
+      "color": "#DC2626"
+    },
+    {
+      "id": "20",
+      "title": "Portugal vs DR Congo",
+      "date": "2026-06-17",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Houston",
+      "color": "#16A34A"
+    },
+    {
+      "id": "21",
+      "title": "England vs Croatia",
+      "date": "2026-06-17",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "Dallas (Arlington)",
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "22",
+      "title": "Ghana vs Panama",
+      "date": "2026-06-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Toronto",
+      "color": "#CA8A04"
+    },
+    {
+      "id": "23",
+      "title": "Uzbekistan vs Colombia",
+      "date": "2026-06-17",
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "location": "Mexico City",
+      "color": "#EAB308"
+    },
+    {
+      "id": "24",
+      "title": "Mexico vs South Korea",
+      "date": "2026-06-18",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Guadalajara (Zapopan)",
+      "color": "#22C55E"
+    },
+    {
+      "id": "25",
+      "title": "Brazil vs Haiti",
+      "date": "2026-06-19",
+      "startTime": "20:30",
+      "endTime": "22:30",
+      "location": "Philadelphia",
+      "color": "#16A34A"
+    },
+    {
+      "id": "26",
+      "title": "Germany vs Ivory Coast",
+      "date": "2026-06-20",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": "Toronto",
+      "color": "#111827"
+    },
+    {
+      "id": "27",
+      "title": "Netherlands vs Sweden",
+      "date": "2026-06-20",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Houston",
+      "color": "#F97316"
+    },
+    {
+      "id": "28",
+      "title": "Belgium vs Iran",
+      "date": "2026-06-21",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Los Angeles (Inglewood)",
+      "color": "#DC2626"
+    },
+    {
+      "id": "29",
+      "title": "Spain vs Saudi Arabia",
+      "date": "2026-06-21",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Atlanta",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "30",
+      "title": "Uruguay vs Cape Verde",
+      "date": "2026-06-21",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Miami (Miami Gardens)",
+      "color": "#38BDF8"
+    },
+    {
+      "id": "31",
+      "title": "France vs Iraq",
+      "date": "2026-06-22",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "location": "Philadelphia",
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "32",
+      "title": "Argentina vs Austria",
+      "date": "2026-06-22",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Dallas (Arlington)",
+      "color": "#38BDF8"
+    },
+    {
+      "id": "33",
+      "title": "Portugal vs Uzbekistan",
+      "date": "2026-06-23",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Houston",
+      "color": "#16A34A"
+    },
+    {
+      "id": "34",
+      "title": "England vs Ghana",
+      "date": "2026-06-23",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": "Boston (Foxborough)",
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "35",
+      "title": "Czech Republic vs Mexico",
+      "date": "2026-06-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Mexico City",
+      "color": "#DC2626"
+    },
+    {
+      "id": "36",
+      "title": "Scotland vs Brazil",
+      "date": "2026-06-24",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Miami (Miami Gardens)",
+      "color": "#16A34A"
+    },
+    {
+      "id": "37",
+      "title": "Turkey vs USA",
+      "date": "2026-06-25",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Los Angeles (Inglewood)",
+      "color": "#DC2626"
+    },
+    {
+      "id": "38",
+      "title": "Ecuador vs Germany",
+      "date": "2026-06-25",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": "New York/New Jersey (East Rutherford)",
+      "color": "#111827"
+    },
+    {
+      "id": "39",
+      "title": "Uruguay vs Spain",
+      "date": "2026-06-26",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Guadalajara (Zapopan)",
+      "color": "#38BDF8"
+    },
+    {
+      "id": "40",
+      "title": "Norway vs France",
+      "date": "2026-06-26",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "Boston (Foxborough)",
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "41",
+      "title": "Colombia vs Portugal",
+      "date": "2026-06-27",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "location": "Miami (Miami Gardens)",
+      "color": "#16A34A"
+    },
+    {
+      "id": "42",
+      "title": "Panama vs England",
+      "date": "2026-06-27",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "location": "New York/New Jersey (East Rutherford)",
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "43",
+      "title": "Round of 32 - 2A vs 2B",
+      "date": "2026-06-28",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Los Angeles (Inglewood)",
+      "color": "#7C3AED"
+    },
+    {
+      "id": "44",
+      "title": "Round of 32 - 1E vs 3A/B/C/D/F",
+      "date": "2026-06-29",
+      "startTime": "16:30",
+      "endTime": "18:30",
+      "location": "Boston (Foxborough)",
+      "color": "#7C3AED"
+    },
+    {
+      "id": "45",
+      "title": "Round of 32 - 1A vs 3C/E/F/H/I",
+      "date": "2026-06-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Mexico City",
+      "color": "#7C3AED"
+    },
+    {
+      "id": "46",
+      "title": "Round of 32 - 1L vs 3E/H/I/J/K",
+      "date": "2026-07-01",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Atlanta",
+      "color": "#7C3AED"
+    },
+    {
+      "id": "47",
+      "title": "Round of 32 - 2K vs 2L",
+      "date": "2026-07-02",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Toronto",
+      "color": "#7C3AED"
+    },
+    {
+      "id": "48",
+      "title": "Round of 32 - 1J vs 2H",
+      "date": "2026-07-03",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Miami (Miami Gardens)",
+      "color": "#7C3AED"
+    },
+    {
+      "id": "49",
+      "title": "Round of 16 - W74 vs W77",
+      "date": "2026-07-04",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "location": "Philadelphia",
+      "color": "#DC2626"
+    },
+    {
+      "id": "50",
+      "title": "Round of 16 - W76 vs W78",
+      "date": "2026-07-05",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": "New York/New Jersey (East Rutherford)",
+      "color": "#DC2626"
+    },
+    {
+      "id": "51",
+      "title": "Round of 16 - W83 vs W84",
+      "date": "2026-07-06",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "location": "Dallas (Arlington)",
+      "color": "#DC2626"
+    },
+    {
+      "id": "52",
+      "title": "Round of 16 - W86 vs W88",
+      "date": "2026-07-07",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Atlanta",
+      "color": "#DC2626"
+    },
+    {
+      "id": "53",
+      "title": "Quarter-final - W89 vs W90",
+      "date": "2026-07-09",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": "Boston (Foxborough)",
+      "color": "#B91C1C"
+    },
+    {
+      "id": "54",
+      "title": "Quarter-final - W93 vs W94",
+      "date": "2026-07-10",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Los Angeles (Inglewood)",
+      "color": "#B91C1C"
+    },
+    {
+      "id": "55",
+      "title": "Quarter-final - W91 vs W92",
+      "date": "2026-07-11",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "location": "Miami (Miami Gardens)",
+      "color": "#B91C1C"
+    },
+    {
+      "id": "56",
+      "title": "Semi-final - W97 vs W98",
+      "date": "2026-07-14",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "location": "Dallas (Arlington)",
+      "color": "#991B1B"
+    },
+    {
+      "id": "57",
+      "title": "Semi-final - W99 vs W100",
+      "date": "2026-07-15",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "Atlanta",
+      "color": "#991B1B"
+    },
+    {
+      "id": "58",
+      "title": "Third Place Match - L101 vs L102",
+      "date": "2026-07-18",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "location": "Miami (Miami Gardens)",
+      "color": "#D97706"
+    },
+    {
+      "id": "59",
+      "title": "Final - W101 vs W102",
+      "date": "2026-07-19",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "New York/New Jersey (East Rutherford)",
+      "color": "#EAB308"
+    },
+    {
+      "title": "natu",
+      "date": "2026-05-06",
+      "horaInicio": "00:28",
+      "horaFin": "01:27",
+      "id": "ELUHrCJR-Rg"
+    },
+    {
+      "title": "natu",
+      "date": "2026-05-06",
+      "horaInicio": "00:28",
+      "horaFin": "01:27",
+      "id": "5r7wykCSF7Q"
+    },
+    {
+      "title": "natu2311",
+      "date": "2026-05-06",
+      "horaInicio": "23:29",
+      "horaFin": "23:33",
+      "id": "Y5sevsajSvc"
+    },
+    {
+      "title": "Natu ahora si ",
+      "date": "2026-05-08",
+      "horaInicio": "23:35",
+      "horaFin": "00:40",
+      "id": "uz8AH1gngqM"
+    },
+    {
+      "title": "Deberes matematica",
+      "descripcion": "tengo que hacer los deberes de matematica",
+      "date": "2026-05-10",
+      "horaInicio": "16:00",
+      "horaFin": "17:01",
+      "id": "jegavVcBwic"
+    },
+    {
+      "title": "",
+      "descripcion": "",
+      "date": "",
+      "horaInicio": "",
+      "horaFin": "",
+      "id": "RsIXnZ2OaoE"
+    },
+    {
+      "title": "Natu",
+      "descripcion": "Mate",
+      "date": "2026-05-06",
+      "horaInicio": "14:14",
+      "horaFin": "16:14",
+      "id": "Y0g-DSc9KZk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
