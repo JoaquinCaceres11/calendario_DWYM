@@ -36,6 +36,37 @@ body {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* BOTONES DE FILTRO */
+
+/* Estos botones solo cambian la vista del calendario entre día, semana y mes. */
+
+.filtros {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.filtro {
+  background-color: #e5e7eb;
+  color: #111827;
+}
+
+.filtro.activo {
+  background-color: #1d4ed8;
+  color: white;
+}
+
+/* TEXTO DE ESTADO DEL FILTRO */
+
+.vista-actual,
+.sin-eventos {
+  text-align: center;
+  margin: 10px auto;
+  width: fit-content;
+  color: #444;
+}
+
 /* TITULOS */
 
 h1 {

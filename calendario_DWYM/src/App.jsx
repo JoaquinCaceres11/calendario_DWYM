@@ -9,6 +9,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/create" element={<CreateEvent />} />
+        {/* Reutilizamos el mismo formulario para editar un evento existente. */}
+        <Route path="/edit/:id" element={<CreateEvent />} />
       </Routes>
     </BrowserRouter>
   );
